@@ -15,6 +15,12 @@
     color: #1abc9c !important;
 }
 
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .footer-padding {
 	padding-bottom: 60px;
 }
